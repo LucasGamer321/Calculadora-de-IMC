@@ -10,4 +10,5 @@ Exibição da média geral.
 TECNOLOGIAS USADAS:
 Linguagem C
 Compilador C/C++
+VScode
 
